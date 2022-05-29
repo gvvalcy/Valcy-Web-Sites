@@ -8,6 +8,6 @@ Do not delete the "vanilla-tilt.min.js" file which is very important to make the
 
 
 
-Download Valcy here: https://valcy.tiiny.site/
+Download Valcy here: https://gvvalcy.com/browser
 
 - GAMESVISIONS Studios
